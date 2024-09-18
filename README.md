@@ -1,4 +1,4 @@
-# Driving assist system using LiDAR sensor(캡스톤 디자인2)
+# Driving assist system using LiDAR sensor(캡스톤 디자인)
 - **프로젝트 개요**: LiDAR 센서를 적용한 안전시스템을 개발하여 자전거에 적용, 장애물로부터 자전거 운전자의 안전을 확보 
 - **프로젝트 기한**: 2023.09.01 ~ 2023.12.23
 
